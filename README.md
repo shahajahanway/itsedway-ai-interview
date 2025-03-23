@@ -1,6 +1,4 @@
-![AI Mocker Interview App](https://github.com/rrs301/AI-Interview-mocker/assets/20216436/da9cce8e-ce42-47fb-985d-f23b46c6a023)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
